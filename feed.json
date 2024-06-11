@@ -1,0 +1,28 @@
+{
+  "feed": {
+    "id": "red-hat-vulnerabilities-oval",
+    "title": "Red Hat Vulnerabilities OVAL",
+    "updated": "2024-06-11T10:12:35.426620",
+    "entry": [
+      {
+        "id": "oval:/RHEL8/rhel-8-including-unpatched.oval.xml.bz2",
+        "title": "OVAL Definitions",
+        "link": [
+          {
+            "href": "https://raw.githubusercontent.com/jdobes/oval-test-feed/master/RHEL8/rhel-8-including-unpatched.oval.xml.bz2",
+            "length": 3042674
+          }
+        ],
+        "updated": "2024-06-11T09:54:04Z",
+        "content": {
+          "type": "application/x-bzip2",
+          "src": "https://raw.githubusercontent.com/jdobes/oval-test-feed/master/RHEL8/rhel-8-including-unpatched.oval.xml.bz2"
+        },
+        "format": {
+          "schema": "https://oval.mitre.org/language/version5.10/index.html",
+          "version": "5.10"
+        }
+      }
+    ]
+  }
+}
